@@ -1,4 +1,4 @@
-#### Hey! there👋, Welcome to my GitHub😺
+#### Hey! there👋, Welcome to my GitHub :octocat:
 # I'm Den Soriano (🎮💻☕❤)
 
 
@@ -36,10 +36,10 @@ I'm a 🌏 Web Developer based here in Philippines.
 ![Ubuntu](https://img.icons8.com/color/40/ubuntu--v1.png)
 
 
-### Now Playing:
+### :headphones: Now Playing:
 [![Spotify](https://novatorem.donairos.vercel.app/api/spotify)](https://open.spotify.com/user/pldg1kxvk51d52r4lem7eltze)
 
 
-### GitHub Stats
+### :seedling: GitHub Stats
 <img align="left" alt="Den Soriano's GitHub Stats" src="https://github-readme-stats.donairos.vercel.app/api?username=donairos&show_icons=true&hide_border=true" />
 
