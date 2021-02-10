@@ -2,7 +2,7 @@
 # I'm Den Soriano (🎮💻☕❤)
 
 
-I'm a 🌏 Web Developer based here in Philippines.
+I'm a 🌏 Web Developer based in Philippines.
 
 
 #### Few things about me
