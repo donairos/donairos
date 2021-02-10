@@ -37,7 +37,7 @@ I'm a 🌏 Web Developer based here in Philippines.
 
 
 ### Now Playing:
-
+[![Spotify](https://novatorem.donairos.vercel.app/api/spotify)](https://open.spotify.com/user/pldg1kxvk51d52r4lem7eltze)
 
 
 ### GitHub Stats
