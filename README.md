@@ -35,10 +35,12 @@ I'm a 🌏 Web Developer based here in Philippines.
 ![Windows](https://img.icons8.com/color/40/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/40/ubuntu--v1.png)
 
+---
 
 ### :headphones: Now Playing:
 [![Spotify](https://novatorem.donairos.vercel.app/api/spotify)](https://open.spotify.com/user/pldg1kxvk51d52r4lem7eltze)
 
+---
 
 ### :seedling: GitHub Stats
 <img align="left" alt="Den Soriano's GitHub Stats" src="https://github-readme-stats.donairos.vercel.app/api?username=donairos&show_icons=true&hide_border=true" />
