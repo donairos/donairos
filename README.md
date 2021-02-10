@@ -41,4 +41,5 @@ I'm a 🌏 Web Developer based here in Philippines.
 
 
 ### GitHub Stats
+<img align="left" alt="Den Soriano's GitHub Stats" src="https://github-readme-stats.donairos.vercel.app/api?username=donairos&show_icons=true&hide_border=true" />
 
