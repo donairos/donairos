@@ -10,8 +10,8 @@ I'm a 🌏 Web Developer based in Philippines.
 - 👨‍💻 Currently available for freelance projects just [contact me](https://web.facebook.com/yashieey).
 - ❤ Love to explore and learn things.
 - 🎮 I'm a <span style="color:blue">g</span><span style="color:red">a</span><span style="color:green">m</span><span style="color:blue">e</span><span style="color:red">r</span>.
-- 🏆 [Champion in Infotechnolympics 2019 (Web Design Category)](https://web.facebook.com/umakccssc/photos/a.2341071359316931/2341168512640549)
-- 🏆 [2nd Place in 9th I.T Skills Olympics (Web Design Category)](https://web.facebook.com/umakccssc/photos/a.2341071359316931/2341168512640549)
+- 🏆 [Champion in Infotechnolympics 2019 (Web Design Category)](https://www.facebook.com/umakccssc/photos/a.2341071359316931/2341168512640549)
+- 🏆 [2nd Place in 9th I.T Skills Olympics (Web Design Category)](https://www.facebook.com/UmakComSoc/photos/a.2469112456489696/2469113159822959)
 
 
 #### Connect with me 👾
